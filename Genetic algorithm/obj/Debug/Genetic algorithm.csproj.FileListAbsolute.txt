@@ -1,0 +1,2 @@
+c:\users\simon\documents\visual studio 2015\Projects\Genetic algorithm\Genetic algorithm\bin\Debug\Genetic algorithm.exe.config
+D:\Genetic algorithm\Genetic algorithm\bin\Debug\Genetic algorithm.exe.config
